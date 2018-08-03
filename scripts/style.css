@@ -1,0 +1,54 @@
+/* Main CSS */
+
+/* Fonts */
+
+h1 { 
+	font-family: 'Roboto_Regular', Verdana, sans-serif;
+	src: url('/media/fonts/Roboto_Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-size: 150%;
+}
+
+p { 
+	font-family: 'Roboto_Regular', Verdana, sans-serif;
+	src: url('/media/fonts/Roboto_Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100%;
+}
+
+/* Colors */
+
+body {
+	background-color: #171717;
+	color: #efefef;
+}
+
+a:link {
+	color: #c7c7c7;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #c0ffee;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f00;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+/* Spacing */
+
+body {
+	padding-top: 37px;
+	padding-left: 37px;
+	padding-bottom: 37px;
+	padding-right: 37px;
+	overflow: visible;
+}
